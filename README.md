@@ -15,7 +15,8 @@ npm install
 node server.js
 ```
 ## What it should look like
-![A screenshot of the desktop view](public/assets/img/)
+You can view a video of the application [**>> here <<**](https://drive.google.com/file/d/1iU4lIoxULfFuFHw5YiIxWZKA2FquqEcP/view). But this is what it should look like:
+![A screenshot of the desktop view](/assets/img/screenshot.png)
 ## Credits
 N/A
 ## License
