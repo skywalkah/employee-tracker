@@ -10,7 +10,13 @@ To run it locally, follow the steps below. You can clone this repo locally then 
 ```bash
 npm install
 ```
-2. Run the following command in your terminal to start the application
+2. Access MySQL shell to install database
+```bash
+mysql -u root -p
+source db/schema.sql
+source db/seeds.sql
+```
+3. Run the following command in your terminal to start the application
 ```bash
 node server.js
 ```
